@@ -29,4 +29,4 @@ We welcome contributions to this repository. If you have any historical document
 
 ## Contact
 
-For more information, visit our [website](https://ayomide-philip.github.io/gatewaybc-history/) or contact us at [email@example.com](mailto:gateway4054@gmail.com).
+For more information, visit our [website](https://ayomide-philip.github.io/gatewaybc-history/) or contact us at [gateway4054@gmail.com](mailto:gateway4054@gmail.com).
